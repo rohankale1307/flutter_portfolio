@@ -1,0 +1,11 @@
+{
+    "name": "Rohan Kale Portfolio",
+    "short_name": "Rohan Portfolio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F172A",
+    "theme_color": "#00E5FF",
+    "description": "Senior Flutter Developer & Tech Lead Portfolio",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
